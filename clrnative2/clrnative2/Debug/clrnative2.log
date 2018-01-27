@@ -1,0 +1,8 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  clrnative2.cpp
+  Génération de code en cours...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK n'est pas pris en charge en présence de code managé ; redémarrage de l'édition des liens avec /DEBUG:FULL
+  clrnative2.vcxproj -> C:\Users\aoudmadj\Documents\Visual Studio 2015\Projects\LeakingServer\LeakingServer\Debug\clrnative2.dll
+  clrnative2.vcxproj -> C:\Users\aoudmadj\Documents\Visual Studio 2015\Projects\LeakingServer\LeakingServer\Debug\clrnative2.pdb (Partial PDB)
